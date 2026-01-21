@@ -1,4 +1,4 @@
-# E-commerce REST API
+# E-commerce REST API -
 
 A comprehensive e-commerce REST API built with Node.js and Express.
 
